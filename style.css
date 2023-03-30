@@ -1,0 +1,19 @@
+.header1 {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  height: 400px;
+}
+.header-div {
+  text-align: center;
+  color: white;
+  width: 60%;
+  margin: auto;
+}
+.img-size {
+  width: 300px;
+  height: 200px;
+}
+.card-size {
+  width: 300px;
+}
